@@ -5,6 +5,8 @@ The Spotify Song Attributes Dataset is a collection of music tracks, encompassin
 
 The dataset includes key features such as danceability, energy, loudness, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration, and time signature. These attributes provide a holistic view of the songs, enabling users to analyze and interpret different aspects of their musical composition.
 
+Check the dataset [**here**](https://www.kaggle.com/datasets/byomokeshsenapati/spotify-song-attributes).
+
 ## Dataset Features:
 | Column Name       | Description                                                   |
 |-------------------|-------------------------------------------------------------- |
